@@ -6,7 +6,7 @@ import aItems from "../items/index.js";
 
 class Page {
     constructor(){
-        this.sName = "Samer Hak";
+        this.sName = "samer Hak";
         this.sUrlToEmailer = "https://murmuring-beyond-47277.herokuapp.com/send";
         const sBase = document.location.pathname;
         if(sBase[sBase.length - 1] == "/"){

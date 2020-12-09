@@ -17,7 +17,8 @@ body{
 }
 .navbar-inverse .navbar-collapse, 
 .navbar-inverse .navbar-form {
-    background-color: #ffc9cc;
+    background-color: #F88567
+    ;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -31,8 +32,8 @@ body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #c9cfff;
-    background-color: #fffdc9;
+    color: #F8CB67;
+    background-color: #44839B;
 }
 
 
@@ -111,10 +112,11 @@ hr {
 }
 
 .social {
-    background-color: #ffc9cc !important; /* Green */
+    background-color: #F88567
+     !important; /* Green */
     border: none;
     font-family: 'Montserrat', sans-serif;
-    color: white;
+    color: F8CB67;
     padding: 15px 15px;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -126,6 +128,7 @@ hr {
 
 
   footer{
-      background-color: #ffc9cc;
+      background-color: #F88567
+      ;
       color: black;
   }

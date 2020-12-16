@@ -93,12 +93,26 @@ a.left-button, a.right-button {
 }
 
 h2 { border: 2px solid #ccffc9; }
-a   { border: 2px solid #ccffc9; }
+a   { border: 2px solid #ccffc9;}
 
 h2 {
      border: 2px solid #ccffc9; 
-     padding: 5px; }
+     padding: 5px;
+     background-color: #F88567 
+     }
+    
      H2 { text-align: center }
+     
+     h3 {
+        border: 2px solid #ccffc9; 
+        padding: 5px;
+        background-color: #F88567;
+         margin-left: 8em;
+         margin-right: 8em;
+        }
+
+        H3 { text-align: center }
+
 
 p{ text-align: left }
 
@@ -109,6 +123,7 @@ hr {
     margin-bottom: 20px;
     border: 0;
     border-top: 1px solid;
+    
 }
 
 .social {

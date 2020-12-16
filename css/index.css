@@ -53,6 +53,11 @@ article#items{
     position: relative;
 }
 
+img[src$="centerme"] {
+    display:block;
+    margin: 0 auto;
+  }
+  
 div.moreleft, div.moreright {
     position: absolute;
     height: 100%;

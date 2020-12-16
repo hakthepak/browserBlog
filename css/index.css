@@ -29,8 +29,9 @@ body{
 
 
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18
+px;
     line-height: 1.42857143;
     color: #F8CB67;
     background-color: #44839B;

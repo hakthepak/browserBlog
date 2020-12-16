@@ -92,11 +92,11 @@ a.left-button, a.right-button {
     color: rgb(60, 60, 60);
 }
 
-h2 { border: 2px solid #ccffc9; }
-a   { border: 2px solid #ccffc9;}
+h2 { border: 2px solid #F8CB67; }
+a   { border: 2px solid #F8CB67;}
 
 h2 {
-     border: 2px solid #ccffc9; 
+     border: 2px solid #F8CB67; 
      padding: 5px;
      background-color: #F88567 
      }
@@ -104,7 +104,7 @@ h2 {
      H2 { text-align: center }
      
      h3 {
-        border: 2px solid #ccffc9; 
+        border: 2px solid #F8CB67; 
         padding: 5px;
         background-color: #F88567;
          margin-left: 8em;

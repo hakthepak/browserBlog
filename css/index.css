@@ -131,7 +131,7 @@ hr {
      !important; /* Green */
     border: none;
     font-family: 'Montserrat', sans-serif;
-    color: F8CB67;
+    color: #F8CB67;
     padding: 15px 15px;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -139,7 +139,7 @@ hr {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+}
 
 
   footer{

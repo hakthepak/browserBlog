@@ -34,6 +34,12 @@ body {
     line-height: 1.42857143;
     color: #F8CB67;
     background-color: #44839B;
+    
+}
+
+img {
+    text-align: center;
+    
 }
 
 
@@ -57,7 +63,7 @@ img[src$="centerme"] {
     display:block;
     margin: 0 auto;
   }
-  
+
 div.moreleft, div.moreright {
     position: absolute;
     height: 100%;
@@ -72,6 +78,10 @@ div.moreleft {
 
 div.moreright {
     left: 0;
+}
+
+label {
+    text-align: left;
 }
 
 .scrollleft, .scrollright {
@@ -103,7 +113,9 @@ a   { border: 2px solid #F8CB67;}
 h2 {
      border: 2px solid #F8CB67; 
      padding: 5px;
-     background-color: #F88567 
+     background-color: #F88567;
+     margin-left: 0.2em;
+     margin-right: 0.2em;
      }
     
      H2 { text-align: center }
@@ -112,8 +124,8 @@ h2 {
         border: 2px solid #F8CB67; 
         padding: 5px;
         background-color: #F88567;
-         margin-left: 8em;
-         margin-right: 8em;
+         margin-left: 6.3em;
+         margin-right: 6.3em;
         }
 
         H3 { text-align: center }

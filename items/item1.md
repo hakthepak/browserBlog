@@ -17,3 +17,5 @@ Hello! My name is Samer, and I am a User Experience Designer! I am from Toronto,
 <br>
 <br>
 <br>
+
+## Projects
